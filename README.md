@@ -1,9 +1,9 @@
 # **STOCK CLOSING PRICE PREDICTOR**
 
 **------------------------------------------------------------------------------------------------------------------------------------**
-                   STEPS INVOLVED 
-                1. USING LSTM NETWORKD PREDICTING THE CLOSING PRICE OF A STOCK ON A CERTAIN DATE 
-                2. USING PLOTLYDASH TO CREATE A WEB APP
+                   **STEPS INVOLVED ** 
+                **1. USING LSTM NETWORKD PREDICTING THE CLOSING PRICE OF A STOCK ON A CERTAIN DATE **
+                **2. USING PLOTLYDASH TO CREATE A WEB APP **
 **------------------------------------------------------------------------------------------------------------------------------------**
                 
                 **PARTICIPANTS::BUSSA SAI SANTHOSH,HIMANGSHU DEKA **
