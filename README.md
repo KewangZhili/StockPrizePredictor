@@ -1,10 +1,10 @@
 # **STOCK CLOSING PRICE PREDICTOR**
 
 **------------------------------------------------------------------------------------------------------------------------------------**
-    **STEPS INVOLVED::**
-    **USING LSTM NETWORKD PREDICTING THE CLOSING PRICE OF A STOCK ON A CERTAIN DATE**
-    **USING PLOTLYDASH TO CREATE A WEB APP**
-    **PARTICIPANTS::BUSSA SAI SANTHOSH,HIMANGSHU DEKA**
+                **   STEPS INVOLVED **
+                ** USING LSTM NETWORKD PREDICTING THE CLOSING PRICE OF A STOCK ON A CERTAIN DATE **
+                ** USING PLOTLYDASH TO CREATE A WEB APP **
+                **P ARTICIPANTS::BUSSA SAI SANTHOSH,HIMANGSHU DEKA **
 
 **--------------------------------------------------------------------------------------------------------------------------------------**PART-1**::CREATING  MODEL TO PREDICT THE PRICE OF A STOCK ON A PARTICULAR DAY**(DONE BY HIMANGSHU DEKA,BUSSA SAI SANTHOSH)
 (LSTM(Long Short Term Memory) IS A Recurrent Neural Network,RNNs are used in Deep Learning Tasks where memory of the past is important as well,However RNNs are bad at long term memory,which is overcome by LSTMs.)
