@@ -39,7 +39,13 @@ These three parts of an LSTM unit are known as gates. They control the flow of i
 **------------------------------------------------------------------------------------------------------------------------------------**
 
 **PART-2::DEPLOYED USING PLOTLY DASH**(DONE BY BUSSA SAI SANTHOSH)
+<img width="1440" alt="Screenshot 0005-07-30 at 15 29 10" src="https://github.com/KewangZhili/StockPrizePredictor/assets/111041497/87c52002-a99c-43be-ad19-b09644fed8cf">
 
-    
+<img width="1440" alt="Screenshot 0005-07-30 at 15 29 25" src="https://github.com/KewangZhili/StockPrizePredictor/assets/111041497/fa9a3693-b40c-47ed-afdd-8a5043270864">
+<img width="1440" alt="Screenshot 0005-07-30 at 15 29 27" src="https://github.com/KewangZhili/StockPrizePredictor/assets/111041497/70910754-f781-49b3-bfef-90458b4867f7">
+<img width="1440" alt="Screenshot 0005-07-30 at 15 29 32" src="https://github.com/KewangZhili/StockPrizePredictor/assets/111041497/1cad0c4b-5692-4f07-81c8-1b3be8f7ae54">
+<img width="1440" alt="Screenshot 0005-07-30 at 15 29 36" src="https://github.com/KewangZhili/StockPrizePredictor/assets/111041497/878c9a62-0342-40de-a733-02cf3bb7c085">
+<img width="1440" alt="Screenshot 0005-07-30 at 15 29 38" src="https://github.com/KewangZhili/StockPrizePredictor/assets/111041497/55a68061-b232-43b8-9a73-b805c9fdcb57">
+
 
 
