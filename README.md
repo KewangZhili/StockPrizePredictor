@@ -40,7 +40,7 @@ These three parts of an LSTM unit are known as gates. They control the flow of i
 
 **PART-2::DEPLOYED USING PLOTLY DASH**(DONE BY BUSSA SAI SANTHOSH)
 
-            ** DOWNLOAD THE app.py file and run python app.py in it's directory(or run python3 app.py )**
+            ** DOWNLOAD THE app.py file and run python app.py in it's directory(or run python3 app.py ) int the terminal and click on the web link shown**
 <img width="1440" alt="Screenshot 0005-07-30 at 15 29 10" src="https://github.com/KewangZhili/StockPrizePredictor/assets/111041497/87c52002-a99c-43be-ad19-b09644fed8cf">
 
 <img width="1440" alt="Screenshot 0005-07-30 at 15 29 25" src="https://github.com/KewangZhili/StockPrizePredictor/assets/111041497/fa9a3693-b40c-47ed-afdd-8a5043270864">
